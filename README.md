@@ -18,8 +18,9 @@ This repository is created to showcase my experience using the **KiCad EDA softw
 - KiCad (EDA Tool)
 
 ## 👤 Author
-Karthi  
-Embedded Systems Enthusiast
+Karthikeyan S  
+Embedded Systems Engineer
+For query contact: karthi231255@gmail.com
 
 > This repository is created for professional showcasing on LinkedIn.
 
