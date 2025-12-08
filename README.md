@@ -18,8 +18,8 @@ This repository is created to showcase my experience using the **KiCad EDA softw
 - KiCad (EDA Tool)
 
 ## 🔌 Power supply circuit
-![Power flow schematic](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/schematic_traffic_light_555.jpg)
-![PCB editor](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/schematic_traffic_light_555.jpg)
+![Power flow schematic](h)
+![PCB editor](https://github.com/Karthikeyanmac/kicad-pcb-design/blob/main/Power%20supply%20PCB%20editor%20view.png)
 
 ## 👤 Author
 Karthikeyan S  
