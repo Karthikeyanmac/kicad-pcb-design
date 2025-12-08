@@ -17,6 +17,9 @@ This repository is created to showcase my experience using the **KiCad EDA softw
 ## 🛠 Software
 - KiCad (EDA Tool)
 
+## 🔌 Power supply circuit
+
+
 ## 👤 Author
 Karthikeyan S  
 Embedded Systems Engineer  
