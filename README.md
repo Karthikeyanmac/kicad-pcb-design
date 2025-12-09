@@ -1,4 +1,4 @@
-# KiCad PCB design 
+# KiCad PCB design
 Showcasing my PCB design skills using KiCad EDA tool
 
 # KiCad PCB Design Tool
