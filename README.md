@@ -18,10 +18,10 @@ This repository is created to showcase my experience using the **KiCad EDA softw
 - KiCad (EDA Tool)
 
 ## 🔌 Power supply circuit
-Power flow schematic 
+# Power flow schematic 
 ![Power flow schematic](https://github.com/Karthikeyanmac/kicad-pcb-design/blob/main/Power%20supply%20flow.gif)
 
-PCB Editor
+# PCB Editor
 ![PCB editor](https://github.com/Karthikeyanmac/kicad-pcb-design/blob/main/Power%20supply%20PCB%20editor%20view.png)
 
 ## 👤 Author
